@@ -23,4 +23,4 @@ This manuscript is original and not under consideration at another journal. The 
 Sincerely,
 Theodor Spiro
 Vaika Inc., East Aurora, NY, USA
-tspiro@vaika.com
+theospirin@gmail.com
