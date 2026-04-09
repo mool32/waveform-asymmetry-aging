@@ -240,7 +240,7 @@ Three extensions would substantially strengthen the framework. First, combined E
 
 ## 5. Data and Code Availability
 
-LEMON data are available at https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/. Dortmund Vital Study data are available at https://openneuro.org/datasets/ds005385. Analysis code is available at [GitHub repository].
+LEMON data are available at https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-Body-LEMON/. Dortmund Vital Study data are available at https://openneuro.org/datasets/ds005385. Analysis code is available at https://github.com/mool32/waveform-asymmetry-aging.
 
 ---
 
