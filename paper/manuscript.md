@@ -1,10 +1,14 @@
 # Waveform Asymmetry as a Biomarker of Neural Aging: Spatial Degradation of Oscillatory Cycle Shape Across Two Independent Cohorts
 
-**Authors:** [Author list]
+**Authors:** Theodor Spiro^1,2^
 
-**Affiliations:** [Affiliations]
+**Affiliations:**
 
-**Corresponding author:** [Email]
+^1^ Vaika Inc., East Aurora, NY, USA
+
+^2^ Independent researcher
+
+**Corresponding author:** Theodor Spiro (tspiro@vaika.com)
 
 **Keywords:** waveform asymmetry, peak-trough asymmetry, EEG, aging, beta oscillations, spatial organization, excitatory-inhibitory balance
 
@@ -244,7 +248,13 @@ LEMON data are available at https://ftp.gwdg.de/pub/misc/MPI-Leipzig_Mind-Brain-
 
 ---
 
-## 6. References
+## 6. Acknowledgements
+
+We thank A.V. Gudkov (Vaika Inc. / Roswell Park Comprehensive Cancer Center) for institutional support and discussions on aging biology. We thank the LEMON study team at the Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, and the Dortmund Vital Study team at the Leibniz Research Centre for Working Environment and Human Factors for making their data publicly available. Computational analyses were assisted by Claude (Anthropic).
+
+---
+
+## 7. References
 
 1. Klimesch, W. (1999). EEG alpha and theta oscillations reflect cognitive and memory performance: a review and analysis. *Brain Research Reviews*, 29(2-3), 169–195.
 2. Voytek, B., et al. (2015). Age-related changes in 1/f neural electrophysiological noise. *Journal of Neuroscience*, 35(38), 13257–13265.
