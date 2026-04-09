@@ -3,6 +3,8 @@
 Code and analysis pipeline for:
 
 > **Waveform asymmetry as a biomarker of neural aging: spatial degradation of oscillatory cycle shape across two independent cohorts**
+>
+> Under review at *Network Neuroscience* (NETNEURO-26-0043)
 
 ## Key finding
 
