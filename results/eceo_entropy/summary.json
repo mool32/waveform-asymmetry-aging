@@ -1,0 +1,15 @@
+{
+  "n_valid": 212,
+  "n_failed": 3,
+  "n_excluded": 0,
+  "H_ec_mean": 0.9713173495475615,
+  "H_eo_mean": 0.9420216143307433,
+  "delta_H_mean": -0.029295735216818386,
+  "test1_t": -6.148714648462142,
+  "test1_p_onesided": 1.9276635991863387e-09,
+  "test1_cohen_d": -0.5647252044912303,
+  "test2_r_deltaH_age": -0.043945359272882234,
+  "test2_p_deltaH_age": 0.5245296724932637,
+  "test2_r_absDeltaH_age": 0.10641925668203771,
+  "test2_p_absDeltaH_age": 0.12241484849457858
+}

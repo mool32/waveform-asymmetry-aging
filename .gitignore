@@ -1,0 +1,38 @@
+# Raw EEG data (65GB+) — download from sources listed in README
+data/lemon/*.vhdr
+data/lemon/*.vmrk
+data/lemon/*.eeg
+data/lemon/*.set
+data/lemon/*.fdt
+data/dortmund/
+data/lemon/derivatives/
+
+# Large binary results
+results/phase1_full/all_results.pkl
+results/phase1_pta/
+results/phase1_pta_v2/
+results/phase1_pta_v3/
+results/quantitative_model/
+results/gm_pta_correlation/
+results/calcium_allen_pta.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.log

@@ -1,0 +1,32 @@
+{
+  "primary": {
+    "metric": "prop_positive_beta ~ age",
+    "prediction": "r in [-0.40, -0.20]",
+    "falsification": "|r| < 0.15",
+    "r": -0.31405397362462656,
+    "p": 2.2022894233827526e-15,
+    "n": 608,
+    "replicated": true
+  },
+  "secondary": {
+    "metric": "sigma_A_beta ~ age",
+    "prediction": "r > 0",
+    "r": 0.09051911247459209,
+    "p": 0.025861154073973918,
+    "replicated": true
+  },
+  "band_specificity": {
+    "beta_strongest": true,
+    "r_values": {
+      "delta": 0.019364197490380743,
+      "theta": 0.05744954702966393,
+      "alpha": -0.1277304501063951,
+      "beta": -0.31405397362462656,
+      "low_gamma": -0.09061017034156413
+    }
+  },
+  "spatial": {
+    "H_sign_beta_decreases": true,
+    "absA_beta_increases": true
+  }
+}
