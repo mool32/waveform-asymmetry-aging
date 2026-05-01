@@ -8,7 +8,7 @@ $^{1}$ Vaika Inc., East Aurora, NY, USA
 
 $^{2}$ Independent researcher
 
-**Corresponding author:** Theodor Spiro (theospirin@gmail.com)
+**Corresponding author:** Theodor Spiro (tspiro@vaika.org)
 
 **Keywords:** waveform asymmetry, peak-trough asymmetry, EEG, aging, beta oscillations, spatial organization, excitatory-inhibitory balance
 
@@ -16,7 +16,7 @@ $^{2}$ Independent researcher
 
 ## Abstract
 
-The shape of each neural oscillatory cycle — quantified by peak-trough asymmetry (PTA), the ratio of rise to fall time — reflects excitatory-inhibitory balance in the generating circuit. Whether waveform shape degrades with aging is unknown. We measured broadband PTA across five frequency bands in resting-state EEG from 215 adults (age 20–77; LEMON dataset) and replicated all findings in 608 adults (age 20–70; Dortmund Vital Study), including 208 with 5-year longitudinal follow-up. We report three findings. First, asymmetry is band-specific and spatially structured: slow rhythms show excitatory-type asymmetry while fast rhythms show inhibitory-type asymmetry, with a spatial double dissociation between posterior alpha and central beta. Second, beta-band asymmetry decreases with age (LEMON: *r* = -0.326, *d* = 0.69; Dortmund: *r* = -0.314, *d* = 0.75), surviving control for aperiodic slope and strongest at central electrodes — opposite to electromyographic contamination. Longitudinal data confirmed the predicted direction (mean $\Delta$ = -0.017) with moderate test–retest reliability (*r* = 0.45). Third, spatial organization of asymmetry degrades with age, and theta spatial entropy predicts memory performance independent of age. Waveform shape provides a power-independent measure of neural aging that complements existing spectral biomarkers.
+The shape of each neural oscillatory cycle — quantified by peak-trough asymmetry (PTA), the ratio of rise to fall time — may reflect excitatory-inhibitory balance in the generating circuit. Whether waveform shape degrades with aging is unknown. We measured broadband PTA across five frequency bands in resting-state EEG from 215 adults (age 20–77; LEMON dataset) and replicated all findings in 608 adults (age 20–70; Dortmund Vital Study), including 208 with 5-year longitudinal follow-up. We report three findings. First, asymmetry is band-specific and spatially structured: slow rhythms show excitatory-type asymmetry while fast rhythms show inhibitory-type asymmetry, with a spatial double dissociation between posterior alpha and central beta. Second, beta-band asymmetry decreases with age (LEMON: *r* = -0.326, *d* = 0.69; Dortmund: *r* = -0.314, *d* = 0.75), surviving control for aperiodic slope and strongest at central electrodes — opposite to electromyographic contamination. Longitudinal data confirmed the predicted direction (mean $\Delta$ = -0.017) with moderate test–retest reliability (*r* = 0.45). Third, spatial organization of asymmetry degrades with age, and theta spatial entropy predicts memory performance independent of age. Waveform shape provides a power-independent measure of neural aging that complements existing spectral biomarkers.
 
 ---
 
@@ -26,7 +26,7 @@ The shape of each neural oscillatory cycle — quantified by peak-trough asymmet
 
 Resting-state electroencephalography (EEG) has long served as a window into the neural dynamics of healthy aging. Decades of research have established that aging is accompanied by slowing of the posterior alpha rhythm, reductions in alpha power, and changes in the aperiodic (1/*f*) spectral slope [1–4]. These spectral measures have proven useful as biomarkers but share a fundamental limitation: they characterize *what frequencies are present* and *how much power they carry*, while discarding information about the *shape* of each oscillatory cycle.
 
-Neural oscillations are not sinusoidal. The waveform of each cycle is shaped by the synaptic currents that generate it — fast excitatory postsynaptic potentials produce sharp, rapid deflections, while slower inhibitory currents produce more gradual returns [5, 6]. This asymmetry between the rising and falling phases of each cycle carries information about the excitatory–inhibitory (E/I) balance of the generating circuit that is invisible to power spectral analysis [7, 8].
+Neural oscillations are not sinusoidal. The waveform of each cycle is shaped by the synaptic currents that generate it — fast excitatory postsynaptic potentials produce sharp, rapid deflections, while slower inhibitory currents produce more gradual returns [5, 6]. This asymmetry between the rising and falling phases of each cycle is thought to carry information about the excitatory–inhibitory (E/I) balance of the generating circuit that is invisible to power spectral analysis [7, 8].
 
 ### 1.2 Peak-trough asymmetry
 
@@ -36,11 +36,11 @@ PTA has been applied to characterize waveform shape in the context of Parkinson'
 
 ### 1.3 Why waveform shape may index aging
 
-Several lines of evidence suggest that oscillatory cycle shape should change with aging. First, the E/I balance shifts across the lifespan: GABA concentrations decline in frontal and sensorimotor cortex [13, 14], cortical inhibitory interneuron density decreases [15], and the balance between excitatory and inhibitory synaptic transmission is altered [16]. These changes should manifest as systematic shifts in waveform asymmetry. Second, aging disrupts the spatial organization of neural activity through white matter degradation and loss of long-range corticocortical connections [17, 18], which could alter the spatial pattern of waveform shape across the scalp. Third, waveform asymmetry captures aspects of neural dynamics that are independent of oscillatory power and aperiodic slope [7], potentially providing complementary information about neural aging.
+Several lines of evidence suggest that oscillatory cycle shape should change with aging. First, the E/I balance shifts across the lifespan: GABA concentrations decline in frontal and sensorimotor cortex [13, 14], cortical inhibitory interneuron density decreases [15], and the balance between excitatory and inhibitory synaptic transmission is altered [16]. These changes could plausibly manifest as systematic shifts in waveform asymmetry. Second, aging disrupts the spatial organization of neural activity through white matter degradation and loss of long-range corticocortical connections [17, 18], which could alter the spatial pattern of waveform shape across the scalp. Third, waveform asymmetry captures aspects of neural dynamics that are independent of oscillatory power and aperiodic slope [7], potentially providing complementary information about neural aging.
 
 ### 1.4 Present study
 
-We tested three predictions in two independent datasets. First, we predicted that waveform asymmetry would be systematically non-zero and band-specific, with the sign of asymmetry reflecting the dominant circuit type generating each rhythm. Second, we predicted that beta-band asymmetry would decrease with age, reflecting age-related changes in sensorimotor E/I balance. Third, we predicted that the spatial organization of waveform asymmetry across the scalp would degrade with aging. We tested these predictions in the LEMON dataset (N = 215, age 20–77) and replicated all analyses in the Dortmund Vital Study (N = 608, age 20–70), including 208 participants with 5-year longitudinal follow-up. We additionally examined cross-system coupling between EEG and cardiac asymmetry, state-dependent modulation by visual input (eyes-closed vs. eyes-open), and cognitive correlates of spatial asymmetry organization.
+We tested three predictions in two independent datasets. First, we predicted that waveform asymmetry would be systematically non-zero and band-specific, with the sign of asymmetry reflecting the dominant circuit type generating each rhythm. Second, we predicted that beta-band asymmetry would decrease with age, consistent with age-related changes in sensorimotor E/I balance. Third, we predicted that the spatial organization of waveform asymmetry across the scalp would degrade with aging. We tested these predictions in the LEMON dataset (N = 215, age 20–77) and replicated all analyses in the Dortmund Vital Study (N = 608, age 20–70), including 208 participants with 5-year longitudinal follow-up. We additionally examined cross-system coupling between EEG and cardiac asymmetry, state-dependent modulation by visual input (eyes-closed vs. eyes-open), and cognitive correlates of spatial asymmetry organization.
 
 ---
 
@@ -95,6 +95,12 @@ For 212 LEMON subjects with valid recordings in both conditions, we computed alp
 ### 2.8 Statistical analysis
 
 Age associations were tested using Pearson and Spearman correlations. Effect sizes were quantified as Cohen's *d* (independent samples) or *d*_z (paired samples). Where noted, partial correlations controlled for aperiodic spectral slope or age. Multiple comparisons across frequency bands were corrected using the Benjamini–Hochberg false discovery rate (FDR) procedure. Bootstrap 95% confidence intervals (10,000 iterations) were computed for longitudinal effect estimates. All analyses were conducted in Python using SciPy and statsmodels.
+
+### 2.9 Age prediction analysis
+
+To evaluate the predictive utility of waveform asymmetry relative to established spectral features, we trained ridge regression models to predict chronological age from six feature sets: (1) PTA-only (16 features: trimmed mean *A*, prop_positive, and $\sigma$(*A*) per band, plus global $\sigma$); (2) spectral power (31 features: relative band power for 5 bands $\times$ 5 regions, plus 5 global band powers and alpha peak frequency); (3) aperiodic slope (1 feature: log-log linear fit of 2–40 Hz PSD); (4) all spectral features combined (32 features); (5) PTA + spectral combined (48 features); and (6) sex only (1 feature, baseline). Spectral features were extracted from LEMON raw EEG using Welch periodograms (4 s windows, 50% overlap).
+
+Each model was a pipeline of median imputation, z-score standardisation, and RidgeCV ($\alpha$ $\in$ {0.01, 0.1, 1, 10, 100, 1000}), evaluated by 10 $\times$ 10-fold stratified cross-validation (stratified by age quartile bins). The primary metric was mean absolute error (MAE). Statistical significance was assessed by permutation tests (200 permutations, 5 $\times$ 2-fold CV). For cross-dataset generalization, the PTA model was trained on all LEMON data and tested on Dortmund (N = 608).
 
 ---
 
@@ -170,9 +176,9 @@ All three spatial signatures replicate across datasets with consistent sign and 
 
 **Multi-band pattern entropy.** For each channel, we computed the sign of *A* across four bands (theta, alpha, beta, gamma) to form a 4-bit spatial pattern. Shannon entropy of the pattern distribution decreased with age (*r* = -0.221, *p* = 0.001, *d* = -0.49), indicating that older brains express fewer unique combinations of waveform shape across frequency bands. Young adults: *H* = 0.846 $\pm$ 0.062; older adults: *H* = 0.814 $\pm$ 0.070.
 
-### 3.4 Cross-system coupling: EEG and cardiac asymmetry
+### 3.4 Cross-system coupling: EEG and cardiac asymmetry (pilot analysis)
 
-HRV oscillations extracted from the ECG component (N = 72) showed universally positive asymmetry: VLF (*A* = +0.007, *p* = n.s.), LF (*A* = +0.022, *d* = 0.93, *p* = 3 $\times 10^{-11}$), HF (*A* = +0.050, *d* = 2.71, *p* = 1 $\times 10^{-34}$), and VHF (*A* = +0.111, *d* = 41.8, *p* = 4 $\times 10^{-117}$). This confirms that waveform asymmetry is not specific to neural oscillations but extends to autonomic rhythms (Figure 4A).
+As an exploratory pilot analysis (N = 72, limited by ICA extraction success rate), we examined whether waveform asymmetry extends to cardiac oscillations. HRV oscillations extracted from the ECG component showed universally positive asymmetry: VLF (*A* = +0.007, *p* = n.s.), LF (*A* = +0.022, *d* = 0.93, *p* = 3 $\times 10^{-11}$), HF (*A* = +0.050, *d* = 2.71, *p* = 1 $\times 10^{-34}$), and VHF (*A* = +0.111, *d* = 41.8, *p* = 4 $\times 10^{-117}$). This confirms that waveform asymmetry is not specific to neural oscillations but extends to autonomic rhythms (Figure 4A).
 
 ![Cross-system coupling between EEG and cardiac asymmetry.](figures/fig4_hrv_cross_system.pdf)
 
@@ -190,9 +196,9 @@ EC H(sign *A*) = 0.971, EO H(sign *A*) = 0.942 (paired *t*(211) = -6.15, *p* = 1
 
 **No age dependence of the EC–EO shift.** The magnitude of the entropy change did not depend on age (Figure 5B): $\Delta$*H* versus age *r* = -0.044, *p* = 0.52. Young and older adults showed equivalent modulation by visual input (young $\Delta$*H* = -0.026, old $\Delta$*H* = -0.036, *d* = 0.14). This dissociation is informative: while the *baseline* spatial organization degrades with age (Section 3.3), the *acute response* to sensory input is preserved. The degradation is structural, not a loss of functional reactivity.
 
-### 3.6 Cognitive correlates: theta spatial entropy predicts memory
+### 3.6 Cognitive correlates: theta spatial entropy predicts memory (exploratory)
 
-All cognitive partial correlations controlled for age (Table 3). Theta-band spatial entropy, H(sign *A*)_theta, was the most consistent predictor of cognitive performance, reaching significance for four of five tests examined: CVLT delayed recall (partial *r* = +0.165, *p* = 0.015), CVLT recognition (partial *r* = +0.143, *p* = 0.036), CVLT trial 1 recall (partial *r* = +0.138, *p* = 0.043), and TMT-B executive function (partial *r* = -0.146, *p* = 0.033; negative because higher TMT-B time = worse performance). Alpha entropy predicted CVLT recognition (partial *r* = +0.164, *p* = 0.016). Working memory errors (TAP-WM omissions) were predicted by theta entropy (partial *r* = +0.152, *p* = 0.027; positive = more diversity, fewer omissions).
+The following cognitive analyses are exploratory and have not been independently replicated. All partial correlations controlled for age (Table 3). Theta-band spatial entropy, H(sign *A*)_theta, was the most consistent predictor of cognitive performance, reaching significance for four of five tests examined: CVLT delayed recall (partial *r* = +0.165, *p* = 0.015), CVLT recognition (partial *r* = +0.143, *p* = 0.036), CVLT trial 1 recall (partial *r* = +0.138, *p* = 0.043), and TMT-B executive function (partial *r* = -0.146, *p* = 0.033; negative because higher TMT-B time = worse performance). Alpha entropy predicted CVLT recognition (partial *r* = +0.164, *p* = 0.016). Working memory errors (TAP-WM omissions) were predicted by theta entropy (partial *r* = +0.152, *p* = 0.027; positive = more diversity, fewer omissions).
 
 **Table 3.** Cognitive partial correlations (controlling for age).
 
@@ -208,6 +214,25 @@ All cognitive partial correlations controlled for age (Table 3). Theta-band spat
 
 The consistent direction — higher theta spatial diversity predicts better memory and executive function, independent of age — is neuroanatomically plausible. Theta oscillations are generated by hippocampal–cortical circuits, and the hippocampus is among the structures most vulnerable to age-related atrophy [21]. The spatial diversity of theta waveform asymmetry may index the integrity of distributed hippocampal–cortical communication. Effect sizes are modest (*r* $\approx$ 0.14–0.17), consistent with the expected magnitude for a single EEG-derived metric predicting complex cognitive function.
 
+### 3.7 Age prediction: PTA versus spectral features
+
+Ridge regression models trained to predict chronological age revealed that all feature sets significantly outperformed chance (MAE = 18.7 years; all permutation *p* < 0.05; Figure 6, Table 4). Spectral power was the strongest single predictor (MAE = 10.8 years, *R*² = 0.56), consistent with the well-established age sensitivity of band power [1, 2]. The aperiodic slope alone predicted age with MAE = 15.5 years (*R*² = 0.19). PTA features predicted age significantly above chance (MAE = 16.7 years, *R*² = 0.11, *p* = 0.005), though with substantially higher error than spectral power. Combining PTA with spectral features (MAE = 11.4 years) did not improve over spectral features alone, suggesting that the age-related variance captured by PTA overlaps with that captured by spectral power in the context of multivariate prediction.
+
+![Age prediction comparison.](figures/fig6_age_prediction.pdf)
+
+**Table 4.** Age prediction performance (LEMON, 10 $\times$ 10-fold CV).
+
+| Feature set | *N* features | MAE (years) | *R*² | *r* | *p*_perm |
+|------------|-------------|-------------|------|-----|---------|
+| PTA | 16 | 16.7 | 0.11 | 0.34 | 0.005 |
+| Power | 31 | 10.8 | 0.56 | 0.75 | 0.005 |
+| Slope | 1 | 15.5 | 0.19 | 0.44 | 0.005 |
+| Spectral (all) | 32 | 10.8 | 0.56 | 0.75 | 0.005 |
+| PTA + Spectral | 48 | 11.4 | 0.49 | 0.70 | 0.005 |
+| Sex | 1 | 18.2 | 0.02 | 0.15 | 0.015 |
+
+Cross-dataset generalization of the PTA model (trained on LEMON, tested on Dortmund N = 608) yielded MAE = 12.4 years and *r* = 0.28. Although modest, this demonstrates that PTA-based age prediction transfers across acquisition systems and demographic structures without retraining.
+
 ---
 
 ## 4. Discussion
@@ -220,7 +245,7 @@ This study demonstrates that the shape of neural oscillatory cycles — as quant
 
 The finding that slow oscillations (delta, alpha) show excitatory-type asymmetry while fast oscillations (beta, gamma) show inhibitory-type asymmetry is consistent with the biophysics of rhythm generation. Posterior alpha is generated primarily by thalamocortical excitatory loops involving pyramidal neurons, whose EPSPs produce a rapid depolarizing phase [5]. Beta oscillations, particularly over sensorimotor cortex, are shaped by GABAergic interneuron networks whose synchronized IPSPs produce a rapid hyperpolarizing (fall) phase [22, 23]. The spatial double dissociation — posterior-positive alpha versus central-positive beta — maps directly onto the known generators of these rhythms.
 
-The selective vulnerability of beta asymmetry to aging aligns with evidence that sensorimotor cortex undergoes disproportionate age-related changes in E/I balance. GABA concentrations measured by magnetic resonance spectroscopy decline most steeply in frontal and sensorimotor regions [13, 14], and beta-band activity is particularly sensitive to GABAergic manipulation [24]. We note, however, that the present data cannot establish a causal link between GABA changes and PTA shifts; this interpretation remains a hypothesis requiring convergent evidence from combined EEG–MRS designs.
+The selective vulnerability of beta asymmetry to aging is consistent with evidence that sensorimotor cortex undergoes disproportionate age-related changes in E/I balance. GABA concentrations measured by magnetic resonance spectroscopy decline most steeply in frontal and sensorimotor regions [13, 14], and beta-band activity is particularly sensitive to GABAergic manipulation [24]. We note, however, that the present data cannot establish a causal link between GABA changes and PTA shifts; this interpretation remains a hypothesis requiring convergent evidence from combined EEG–MRS designs.
 
 ### 4.3 Spatial degradation without mechanistic commitment
 
@@ -229,6 +254,8 @@ The spatial signatures of aging — increasing local asymmetry magnitude, decrea
 ### 4.4 Relation to existing EEG aging biomarkers
 
 Waveform asymmetry provides information that is partially independent of established spectral biomarkers. The beta–age association survived control for aperiodic spectral slope (partial *r* = -0.245 versus raw *r* = -0.326), indicating that ~75% of the age-related variance in PTA is not shared with the 1/*f* slope. The two metrics likely reflect overlapping but distinct aspects of neural aging: the aperiodic slope indexes the overall balance of excitatory and inhibitory synaptic currents [25], while PTA captures the temporal dynamics of individual cycles.
+
+The age prediction analysis (Section 3.7) provides a complementary perspective. Spectral power features predicted age substantially better than PTA features (MAE = 10.8 vs 16.7 years), and adding PTA to spectral features did not reduce prediction error. This indicates that for the purpose of multivariate age prediction, the aging information in PTA is largely recoverable from spectral power. However, this does not diminish the value of PTA as a biomarker: the bivariate correlation between beta PTA and age (*r* = -0.33) reflects a qualitatively different neural property — the temporal shape of individual oscillatory cycles — that is invisible to power-spectral analysis. Notably, the PTA model generalized across datasets (Dortmund MAE = 12.4 years, *r* = 0.28), demonstrating that waveform shape carries transferable age information despite differences in acquisition hardware and demographics.
 
 Compared to alpha power and peak frequency changes, beta PTA has the advantage of being computed from broadband data without requiring identification of spectral peaks, making it robust to the common finding that alpha peaks become less distinct with aging. The effect size (*d* $\approx$ 0.7) is substantially larger than typical alpha power age effects (*d* $\approx$ 0.3–0.5), though direct head-to-head comparison in the same subjects would be needed to establish superiority.
 
@@ -246,11 +273,11 @@ Several limitations qualify these findings. First, while the core beta–age ass
 
 ### 4.8 Clinical translational potential
 
-The cross-sectional effect sizes observed (*d* $\approx$ 0.7) place waveform asymmetry among the stronger EEG-based aging biomarkers reported to date and suggest potential utility as an endpoint in clinical trials of interventions targeting neural E/I balance. The metric requires only standard EEG equipment and approximately 3 minutes of resting-state recording, making it feasible for large-scale screening. The moderate test–retest reliability (*r* = 0.45) is comparable to other EEG biomarkers used in longitudinal studies and sufficient for group-level comparisons, though individual-level tracking would benefit from multi-session averaging.
+The cross-sectional effect sizes observed (*d* $\approx$ 0.7) place waveform asymmetry among the stronger EEG-based aging biomarkers reported to date and suggest potential utility as an endpoint in clinical trials of interventions targeting neural circuit function. The metric requires only standard EEG equipment and approximately 3 minutes of resting-state recording, making it feasible for large-scale screening. The moderate test–retest reliability (*r* = 0.45) is comparable to other EEG biomarkers used in longitudinal studies and sufficient for group-level comparisons, though individual-level tracking would benefit from multi-session averaging.
 
 ### 4.9 Future directions
 
-Three extensions would substantially strengthen the framework. First, combined EEG–MRS studies could test whether regional GABA concentrations predict regional PTA, establishing a neurochemical basis for the waveform shape changes. Second, pharmacological challenge studies (e.g., benzodiazepine, which enhances GABAergic transmission) could test whether acute manipulation of E/I balance shifts PTA in the predicted direction. Third, application to clinical populations (Parkinson's disease, epilepsy, Alzheimer's disease) could establish waveform asymmetry as a clinically useful biomarker.
+Three extensions would substantially strengthen the framework. First, combined EEG–MRS studies could test whether regional GABA concentrations predict regional PTA, establishing a neurochemical basis for the waveform shape changes. Second, pharmacological challenge studies (e.g., benzodiazepine, which enhances GABAergic transmission) could test whether acute pharmacological manipulation shifts PTA in the predicted direction, providing causal evidence for the E/I interpretation. Third, application to clinical populations (Parkinson's disease, epilepsy, Alzheimer's disease) could establish waveform asymmetry as a clinically useful biomarker.
 
 ---
 

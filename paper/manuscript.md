@@ -8,7 +8,7 @@
 
 ^2^ Independent researcher
 
-**Corresponding author:** Theodor Spiro (theospirin@gmail.com)
+**Corresponding author:** Theodor Spiro (tspiro@vaika.org)
 
 **Keywords:** waveform asymmetry, peak-trough asymmetry, EEG, aging, beta oscillations, spatial organization, excitatory-inhibitory balance
 

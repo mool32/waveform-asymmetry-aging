@@ -1,6 +1,6 @@
 Dear Editors,
 
-I am submitting "Waveform Asymmetry as a Biomarker of Neural Aging: Spatial Degradation of Oscillatory Cycle Shape Across Two Independent Cohorts" for consideration as a Research Article in Network Neuroscience.
+I am submitting "Waveform Asymmetry as a Biomarker of Neural Aging: Spatial Degradation of Oscillatory Cycle Shape Across Two Independent Cohorts" for consideration as a Regular Article in NeuroImage.
 
 This manuscript addresses a gap in the EEG aging literature: while spectral power and frequency have been extensively studied, the *shape* of individual oscillatory cycles has been largely overlooked. We quantify waveform shape using peak-trough asymmetry (PTA) and report three principal findings:
 
@@ -10,7 +10,7 @@ This manuscript addresses a gap in the EEG aging literature: while spectral powe
 
 3. **Spatial network degradation.** The spatial organization of waveform asymmetry simplifies with age, and theta spatial entropy independently predicts memory performance — linking oscillatory cycle shape to functional cognitive networks.
 
-The work fits Network Neuroscience because it examines spatial network-level organization of a novel neural metric, demonstrates cross-system coupling between brain and cardiac oscillatory shape, and provides all data and code openly (https://github.com/mool32/waveform-asymmetry-aging). A preprint has been posted on bioRxiv.
+The work fits NeuroImage because it introduces a novel EEG-based neuroimaging metric with strong spatial topographic structure, demonstrates its sensitivity to aging across two large cohorts with combined N > 800, and links oscillatory cycle shape to both spatial brain organization and cognitive function. The broadband cycle-by-cycle approach complements existing spectral and connectivity methods. All data and code are openly available (https://github.com/mool32/waveform-asymmetry-aging).
 
 **Suggested reviewers:**
 
