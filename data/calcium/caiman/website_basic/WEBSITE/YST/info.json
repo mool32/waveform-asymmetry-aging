@@ -1,0 +1,13 @@
+{
+"id": "YST",
+"lab": "Yuste Lab", 
+"contributors": ["Weijian Yang, Darcy Peterka"], 
+"location": "Columbia University", 
+"animal": "Mouse", 
+"indicator": "GCaMP3", 
+"region": "V1", 
+"rate-hz": 10, 
+"radius": 6, 
+"decay_time": 0.75,
+"dimensions": [3000, 200, 256]
+}

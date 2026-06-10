@@ -1,0 +1,10 @@
+{
+  "n_cells": 100,
+  "fs": 30,
+  "duration_sec": 60,
+  "description": "Aged neurons: slower rise (80ms), faster decay (350ms) \u2014 reduced asymmetry",
+  "tau_rise_mean": 0.08,
+  "tau_decay_mean": 0.35,
+  "ground_truth_mean_A": 0.6108761897916576,
+  "ground_truth_prop_positive": 0.9969730324711062
+}

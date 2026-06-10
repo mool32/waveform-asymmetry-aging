@@ -1,0 +1,14 @@
+{
+"id": "an229717_2013_12_02_fov_03002",
+"lab": "Svoboda Lab", 
+"contributors": ["Simon Peron"], 
+"location": "Janelia Research Campus", 
+"animal": "Mouse", 
+"indicator": "GCaMP6s", 
+"region": "vS1", 
+"rate-hz": 7, 
+"radius": 8, 
+"decay_time": 1.25,
+"dimensions": [2936, 512, 512]
+}
+

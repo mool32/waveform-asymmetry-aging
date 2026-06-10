@@ -1,0 +1,13 @@
+{
+"id": "N.01.01",
+"lab": "Hausser Lab", 
+"contributors": ["Adam Packer", "Lloyd Russell"], 
+"location": "UCL", 
+"animal": "Mouse", 
+"indicator": "GCaMP6s", 
+"region": "V1", 
+"rate-hz": 8, 
+"radius": 6, 
+"decay_time": 1.4,
+"dimensions": [1825, 512, 512]
+}

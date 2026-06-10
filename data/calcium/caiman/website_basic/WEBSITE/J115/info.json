@@ -1,0 +1,13 @@
+{
+"id": "J115",
+"lab": "Tank Lab", 
+"contributors": ["Jeff Gauthier"], 
+"location": "Princeton Neuroscience Institute", 
+"animal": "Mouse", 
+"indicator": "GCaMP3", 
+"region": "hippocampus", 
+"rate-hz": 30, 
+"radius": 8, 
+"decay_time": 0.4,
+"dimensions": [90000, 463, 472]
+}

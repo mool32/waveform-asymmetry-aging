@@ -1,0 +1,10 @@
+{
+  "n_cells": 50,
+  "fs": 30,
+  "duration_sec": 60,
+  "description": "Cardiomyocytes: very fast rise (10ms), moderate decay (300ms)",
+  "tau_rise_mean": 0.01,
+  "tau_decay_mean": 0.3,
+  "ground_truth_mean_A": 0.9197943356617931,
+  "ground_truth_prop_positive": 1.0
+}

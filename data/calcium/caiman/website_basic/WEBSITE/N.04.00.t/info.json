@@ -1,0 +1,13 @@
+{
+"id": "N.04.00.test",
+"lab": "Harvey Lab", 
+"contributors": ["Matthias Minderer"], 
+"location": "Harvard Medical School", 
+"animal": "Mouse", 
+"indicator": "GCaMP6s", 
+"region": "PPC", 
+"rate-hz": 8, 
+"radius": 7, 
+"decay_time": 0.5,
+"dimensions": [3000, 512, 512]
+}

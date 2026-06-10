@@ -1,0 +1,10 @@
+{
+  "n_cells": 100,
+  "fs": 30,
+  "duration_sec": 60,
+  "description": "Healthy neurons: fast rise (50ms), slow decay (500ms)",
+  "tau_rise_mean": 0.05,
+  "tau_decay_mean": 0.5,
+  "ground_truth_mean_A": 0.8022401219279677,
+  "ground_truth_prop_positive": 1.0
+}

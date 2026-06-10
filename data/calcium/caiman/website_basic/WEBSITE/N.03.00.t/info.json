@@ -1,0 +1,13 @@
+{
+"id": "N.03.00.test",
+"lab": "Losonczy Lab",
+	"contributors": ["Jeff Zaremba"],
+	"location": "Columbia University",
+	"animal": "Mouse",
+"indicator": "GCaMP6f", 
+"region": "dHPC CA1", 
+"rate-hz": 7, 
+"radius": 12, 
+"decay_time": 0.4,
+"dimensions": [2250, 498, 467]
+}

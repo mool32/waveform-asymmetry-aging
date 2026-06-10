@@ -1,0 +1,6 @@
+band,slope,intercept,r_squared,p_value,n_subjects,p_corrected,significant
+delta,,,,,5,1.0,False
+theta,,,,,5,1.0,False
+alpha,,,,,5,1.0,False
+beta,,,,,5,1.0,False
+low_gamma,,,,,5,1.0,False

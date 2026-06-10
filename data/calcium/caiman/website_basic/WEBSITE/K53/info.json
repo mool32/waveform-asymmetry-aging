@@ -1,0 +1,13 @@
+{
+"id": "K53",
+"lab": "Tank Lab", 
+"contributors": ["Sue Ann Koay"], 
+"location": "Princeton Neuroscience Institute", 
+"animal": "Mouse", 
+"indicator": "GCaMP6f", 
+"region": "Parietal Cortex", 
+"rate-hz": 30, 
+"radius": 8, 
+"decay_time": 0.4,
+"dimensions": [116043,512, 512]
+}

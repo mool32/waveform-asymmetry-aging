@@ -1,0 +1,13 @@
+{
+"id": "J123",
+"lab": "Tank Lab", 
+"contributors": ["Jeff Gauthier"], 
+"location": "Princeton Neuroscience Institute", 
+"animal": "Mouse", 
+"indicator": "GCaMP5", 
+"region": "Hippocampus", 
+"rate-hz": 30, 
+"radius": 10, 
+"decay_time": 0.5,
+"dimensions": [41000, 458, 477]
+}

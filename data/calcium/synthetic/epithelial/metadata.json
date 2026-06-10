@@ -1,0 +1,10 @@
+{
+  "n_cells": 80,
+  "fs": 5,
+  "duration_sec": 300,
+  "description": "Epithelial Ca2+ waves: slow rise (2s), very slow decay (8s)",
+  "tau_rise_mean": 2.0,
+  "tau_decay_mean": 8.0,
+  "ground_truth_mean_A": 0.5762936572555599,
+  "ground_truth_prop_positive": 0.9923071543464578
+}
